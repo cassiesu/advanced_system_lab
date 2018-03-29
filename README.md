@@ -1,5 +1,5 @@
 
-# Advanced System Lab ETHz 2015
+# Advanced System Lab ETHz 2014
 
 Built a persistent cloud-distributed message passing system on Java platform with mature knowledge of computer network, multi-thread scheduling, memory management, PostgreSQL, TCP/IP routing, socket programming, IO/NIO 
 
